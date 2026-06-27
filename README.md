@@ -41,7 +41,10 @@ npx playwright install
 npx playwright test
 \`\`\`
 
-### 4. View the report
-\`\`\`bash
+### 4. Allure Report
+
+<img width="1920" height="1080" alt="Screenshot (165)" src="https://github.com/user-attachments/assets/0fd7eeb5-4eb9-4c3e-8556-fdbce981a345" />
+
+
 npx playwright show-report
 \`\`\`
