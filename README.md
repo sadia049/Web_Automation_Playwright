@@ -1,4 +1,4 @@
-![Playwright Tests Status](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/actions/workflows/playwright.yml/badge.svg)
+![Playwright Tests Status](https://github.com/sadia049/Web_Automation_Playwright/actions/workflows/playwright.yml/badge.svg)
 
 # Sauce Demo Automation Portfolio Project
 
